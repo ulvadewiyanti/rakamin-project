@@ -1,54 +1,40 @@
-# Rakamin Final Project Batch 17 - DataRider
+# Rakamin Final Project Batch 17 - DataRider Team
 ## Dataset : Payment Default Prediction
+Data source : https://www.kaggle.com/datasets/reverie5/av-janata-hack-payment-default-prediction
 ## Nama Anggota :
 <ol>
- <li>Tri Setiawan</li>
- <li>Ulva Dewiyanti</li>
- <li>Cristanto</li>
- <li>Steven Benny</li>
+ <li>[Tri Setiawan](https://www.linkedin.com/in/trisetiawan14ts/)</li>
+ <li>[Ulva Dewiyanti](https://www.linkedin.com/in/ulva/)</li>
+ <li>[Cristanto](https://www.linkedin.com/in/cristanto99/)</li>
+ <li>[Steven Benny](https://www.linkedin.com/in/stevenbennyp2/)</li>
 </ol>
+
+## Project Overview
+
+This project is a final project given as an activity to implement the knowledge that has been given during the data science bootcamp batch 17 from [Rakamin Academy](https://rakamin.com/). 
+
+This project is in the form of making a machine learning model to classify credit card customers will be default or not in the following month by using several machine learning algorithms and followed by tuning hyperparameters to get the optimal model. 
+
+In addition to focusing on model performance, this project also focuses on completing case studies by providing several business recommendations based on the results of data exploration.
+
+The project consist of 3 stages:
+<ul>
+ <li>Stage 1: EDA (Exploratory Data Analysis)</li>
+ <li>Stage 2: Data preprocessing (data cleaning, standardization, and feature engineering)</li>
+ <li>Stage 3: Machine learning training and testing</li>
+</ul>
 
 ## Problem Statement
    
-Memprediksi secara akurat pelanggan mana yang paling mungkin gagal bayar merupakan peluang bisnis yang signifikan bagi semua bank. Dimana kartu kredit merupakan kartu bank yang paling umum di Taiwan, karena memberikan dampak baik pada konsumen dan bank.
+Credit card is a flexible tool by which a customer can use a bank's money for a short period of time.
 
-Pada dataset ini juga menginformasikan keputusan bank tentang kriteria untuk menyetujui aplikasi kartu kredit dan juga memutuskan batas kredit apa yang harus diberikan.
+Predicting accurately which customers are most probable to default represents a significant business opportunity for all banks. Bank cards are the most common credit card type in Taiwan, which emphasizes the impact of risk prediction on both the consumers and banks.
 
-Kumpulan data ini berisi informasi tentang pembayaran default, faktor demografis, data kredit, riwayat pembayaran, dan laporan tagihan klien kartu kredit di Taiwan dari April 2005 hingga September 2005.
+This would inform the bank’s decisions on criteria to approve a credit card application and also decide upon what credit limit to provide.
 
-Dengan menggunakan informasi yang diberikan, tim kami akan memprediksi kemungkinan pelanggan gagal bayar di bulan berikutnya.
+This dataset contains information on default payments, demographic factors, credit data, history of payment, and bill statements of credit card clients in Taiwan from April 2005 to September 2005.
 
-## Goals
-Mengurangi default rate
+Using the information given, predict the probability of a customer defaulting in the next month.
 
-## Objective
-Membuat model yang dapat memprediksi gagal bayar pada bulan berikutnya.
-
-## Summary :
-<ul>
- <li>STAGE 1 :</li>
-</ul>
-<ol>
-  <li>Menentukan untuk memilih mengurangi default rate pada goals</li>
-  <li>Menentukan bisnis metrics (support) untuk default rate</li>
-  <li>Menjabarkan insight setiap variable untuk explanatory</li>
-  <li>Mengexplore masing masing variabel</li>
-  <li>Menentukan apakah insightnya relate dengan default ratenya</li>
- </ol>
- 
-<ul>
- <li>STAGE 2 :</li>
-</ul>
-<ol>
-  <li>Menentukan nilai yang belum terdefinisi</li>
-  <li>Menentukan bahwa datanya termasuk imbalance</li>
-  <li>Dari hasil yang didapat pada proses EDA dapat menambahkan insight</li>
- </ol>
- 
- <ul>
-  <li>STAGE 3 :</li>
- </ul>
- <ol>
-   <li>Memilih AUC sebagai metric utama, dan Precision serta Recall sebagai secondary metric</li>
-   <li>Memilih model prediksi yang tepat yakni dari 4 Nilai metrik evaluasi dengan AUC terbesar, dipilih melalui metrix XGBoost yang telah dilakukan hyperparameter tuning yang menunjukkan AUC pada train sebesar 0.87 dan AUC pada test 0.85</li>
-  </ol>
+## Goal of the model
+Reduce default rate
