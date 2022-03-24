@@ -3,10 +3,10 @@
 Data source : https://www.kaggle.com/datasets/reverie5/av-janata-hack-payment-default-prediction
 ## Nama Anggota :
 <ol>
- <li>[Tri Setiawan](https://www.linkedin.com/in/trisetiawan14ts/)</li>
- <li>[Ulva Dewiyanti](https://www.linkedin.com/in/ulva/)</li>
- <li>[Cristanto](https://www.linkedin.com/in/cristanto99/)</li>
- <li>[Steven Benny](https://www.linkedin.com/in/stevenbennyp2/)</li>
+ <li> [Tri Setiawan](https://www.linkedin.com/in/trisetiawan14ts/) </li>
+ <li> [Ulva Dewiyanti](https://www.linkedin.com/in/ulva/) </li>
+ <li> [Cristanto](https://www.linkedin.com/in/cristanto99/) </li>
+ <li> [Steven Benny](https://www.linkedin.com/in/stevenbennyp2/) </li>
 </ol>
 
 ## Project Overview
