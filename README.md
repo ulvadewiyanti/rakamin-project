@@ -1,12 +1,12 @@
 # Rakamin Final Project Batch 17 - DataRider Team
 ## Dataset : Payment Default Prediction
 Data source : https://www.kaggle.com/datasets/reverie5/av-janata-hack-payment-default-prediction
-## Nama Anggota :
+## Nama Anggota : 
 <ol>
- <li> [Tri Setiawan](https://www.linkedin.com/in/trisetiawan14ts/) </li>
- <li> [Ulva Dewiyanti](https://www.linkedin.com/in/ulva/) </li>
- <li> [Cristanto](https://www.linkedin.com/in/cristanto99/) </li>
- <li> [Steven Benny](https://www.linkedin.com/in/stevenbennyp2/) </li>
+ <li><a href="https://www.linkedin.com/in/trisetiawan14ts/">Tri Setiawan</a></li>
+ <li><a href="https://www.linkedin.com/in/ulva/">Ulva Dewiyanti</a></li>
+ <li><a href="https://www.linkedin.com/in/cristanto99/">Cristanto</a></li>
+ <li><a href="https://www.linkedin.com/in/stevenbennyp2/">Steven Benny</a></li>
 </ol>
 
 ## Project Overview
